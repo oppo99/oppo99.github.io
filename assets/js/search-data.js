@@ -69,7 +69,28 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-publications",
+        },{id: "dropdown-publicações",
+              title: "publicações",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-projetos",
+              title: "projetos",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-blog",
+              title: "blog",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/blog/";
+              },
+            },{id: "dropdown-publications",
               title: "publications",
               description: "",
               section: "Dropdown",
@@ -534,18 +555,11 @@ ninja.data = [{
           window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
-          id: 'lang-pt-br',
-          title: 'pt-br',
+          id: 'lang-it-it"',
+          title: 'it-it"',
           section: 'Languages',
           handler: () => {
-            window.location.href = "/pt-br" + updatedUrl;
-          },
-        },{
-          id: 'lang-fr-ca',
-          title: 'fr-ca',
-          section: 'Languages',
-          handler: () => {
-            window.location.href = "/fr-ca" + updatedUrl;
+            window.location.href = "/it-it"" + updatedUrl;
           },
         },{
       id: 'light-theme',
