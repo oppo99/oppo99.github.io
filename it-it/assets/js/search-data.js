@@ -27,8 +27,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/it-it/blog/";
           },
-        },{id: "nav-publicações",
-          title: "publicações",
+        },{id: "nav-pubblicazioni",
+          title: "pubblicazioni",
           description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
           section: "Navigation menu",
           handler: () => {
