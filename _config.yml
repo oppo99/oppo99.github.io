@@ -4,9 +4,9 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Giorgio
-middle_name: R.
+middle_name: 
 last_name: Oppo
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: jekyll, jekyll-theme, academic-website, portfolio-website, cybersecurity, giorgio oppo, AI safety, AI security, security architect # add your own keywords or leave empty
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://oppo99.github.io # the base hostname & protocol for your site
