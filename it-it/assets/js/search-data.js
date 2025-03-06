@@ -34,8 +34,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/it-it/publications/";
           },
-        },{id: "nav-projetos",
-          title: "projetos",
+        },{id: "nav-progetti",
+          title: "progetti",
           description: "Uma crescente coleção de seus projetos interessantes.",
           section: "Navigation menu",
           handler: () => {
@@ -69,15 +69,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/it-it/people/";
           },
-        },{id: "dropdown-publicações",
-              title: "publicações",
+        },{id: "dropdown-pubblicazioni",
+              title: "pubblicazioni",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/it-it";
               },
-            },{id: "dropdown-projetos",
-              title: "projetos",
+            },{id: "dropdown-progetti",
+              title: "progetti",
               description: "",
               section: "Dropdown",
               handler: () => {
