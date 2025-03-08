@@ -1,123 +1,98 @@
-- title: Personal Information
+- title: General Information
   type: list
   contents:
     - name: Full Name
       value: Giorgio Oppo
     - name: Date of Birth
-      value: 28 January 1999
-    - name: Nationality
-      value: Italian
-    - name: Email
-      value: oppo.giorgio@live.com
-    - name: Phone
-      value: +39 345 2998475
-    - name: Address
-      value: Via Alfonso La Marmora, 50121 Firenze, Italy
-    - name: Driving License
-      value: Category B (Car available)
-
-- title: Languages
-  type: list
-  contents:
-    - Italian (Native)
-    - English (B2 - Independent User)
+      value: 28th January 1999
+    - name: Languages
+      value: Italian (Native), English (B2)
 
 - title: Education
   type: time_table
   contents:
     - title: Master's Degree in Computer Security Engineering
-      institution: Università degli Studi di Milano
-      year: 2020 – 2023
+      institution: Università degli Studi di Milano, Italy
+      year: 2020 - 2023
       description:
+        - Thesis: "Conducting a Requirements Analysis, Threat Identification, and Risk Analysis in a Medical Records Management System aimed at MDR Certification"
         - Final Mark: 103/110
-        - Thesis: "Conducting a Requirements Analysis, Threat Identification, and Risk Analysis in a Medical Records Management System aimed at certification as an MDR (Medical Devices Regulation, EU No 2017/745)"
 
     - title: Bachelor's Degree in Security of Computer Systems and Networks
-      institution: Università degli Studi di Milano
-      year: 2017 – 2020
+      institution: Università degli Studi di Milano, Italy
+      year: 2017 - 2020
       description:
-        - Final Mark: 90/110
         - Thesis: "Study of Cryptanalysis Techniques for RSA and Practical Implications for Security"
+        - Final Mark: 90/110
 
-    - title: Secondary School Diploma (Technological Sector)
-      institution: Vocational School (Information systems and telecommunications specialization)
+    - title: Secondary School Diploma, Technological Sector
+      institution: Vocational School, Information Systems and Telecommunications Specialisation
       year: 2017
       description:
-        - Telecommunications focus
+        - Focus on Telecommunications
 
 - title: Experience
   type: time_table
   contents:
     - title: Cyber Security Specialist
       institution: Max Mara Fashion Group, Reggio Emilia, Italy
-      year: Nov 2023 – Present
+      year: 11/2023 - Present
       description:
-        - Protection of company assets and cyber risk reduction
+        - Protection of company assets and cyber risk mitigation
         - Supplier management for security compliance
         - Cyber threat identification, classification, and remediation
 
     - title: Associated OSINT Analyst
-      institution: Osint Italia, Florence, Italy
-      year: 2021 – present
+      institution: Osint Italia, Firenze, Italy
+      year: 01/2021 - present
       description:
-        - Information retrieval and analysis through OSINT methods
-        - Participation in international competitions assisting law enforcement agencies
-        - Proficient in OSINT tools and methodologies
+        - OSINT-based information research and analysis
+        - Participation in international OSINT competitions to assist law enforcement agencies
 
     - title: ICT Security Technician
-      institution: Azienda Ospedaliero-Universitaria Careggi, Firenze
-      year: 2021 – 2022
+      institution: Azienda Ospedaliero-Universitaria Careggi, Firenze, Italy
+      year: 07/2021 - 02/2022
       description:
-        - Security analysis and remediation for healthcare data systems
-        - Applied ISO 27001 standards and MDR (Medical Device Regulation)
+        - Healthcare records security management
+        - Application of ISO 27001 and MDR standards
 
     - title: Web Developer
       institution: REI – Reindustria Innovazione, Cremona, Italy
-      year: 2018
+      year: 03/2018 - 11/2018
       description:
-        - Development of dynamic websites integrating automated maps and Excel data
+        - Developed websites with automated data integration from Excel files
 
     - title: Web Developer & SEO specialist
-      institution: SeSa S.p.A. (Var Group), Firenze, Italy
-      year: 2016
+      institution: SeSa S.p.A. (VAR GROUP), Firenze, Italy
+      year: 06/2016 - 07/2016
       description:
-        - Website development with Search Engine Optimization (SEO)
+        - Created SEO-optimized websites
 
     - title: Designer and Developer
-      institution: El.En., Florence, Italy
-      year: 2015 – 2016
+      institution: El.En., Firenze, Italy
+      year: 09/2015 - 06/2016
       description:
-        - Design and construction of an autonomous robotic crab
-        - Team leadership and project coordination
+        - Designed and developed autonomous robotic crab
+        - Team coordination and leadership
 
-- title: Digital Skills & Certifications
-  type: list
+- title: Open Source Projects
+  type: time_table
   contents:
-    - Operating Systems: Advanced (Windows, Linux)
-    - Programming Languages: Excellent (Java, C#, C, Prolog, Lisp, Java, Lua, Node.js)
-    - Databases, Word processing, Spreadsheet tools: Excellent
-    - Microsoft Certifications (DevOps, Windows Server, PowerShell, Azure Security)
-    - SANS SEC530: Zero Trust for Hybrid Enterprise (2024)
-    - ECDL Certification (2016)
+    - title: OSINT contributions
+      institution: Osint Italia
+      year: 2021 - present
+      description:
+        - Participation in open-source intelligence activities and international competitions assisting law enforcement
 
-- title: Publications & Contributions
-  type: list
+- title: Honors and Awards
+  type: time_table
   contents:
-    - CVE-2019-19234 Vulnerability Discovery
-    - CVE-2019-19232 Vulnerability Discovery
-
-- title: Languages
-  type: list
-  contents:
-    - Italian (Native)
-    - English (B2 - Independent User)
-
-- title: Driving Licence
-  type: list
-  contents:
-    - Category B (Car Available)
+    - year: 2019
+      items:
+        - CVE-2019-19234 Vulnerability Discovery
+        - CVE-2019-19232 Vulnerability Discovery
 
 - title: Other Interests
   type: list
   contents:
-    - Cybersecurity Research, Robotics, Web Development, Open Source Intelligence (OSINT)
+    - <u>Interests:</u> Cybersecurity Research, Robotics, Programming, OSINT activities
