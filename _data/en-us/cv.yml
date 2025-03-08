@@ -1,105 +1,102 @@
 - title: Personal Information
-  type: list
+  type: time_table
   contents:
-    - Name: Giorgio Oppo
-    - Location: Florence, Italy
-    - Email: oppo.giorgio@live.com
-    - Date of Birth: January 28, 1999
-    - Languages: Italian (Native), English (B2)
+    - name: Full Name
+      value: Giorgio Oppo
+    - name: Date of Birth
+      value: 28th January 1999
+    - name: Languages
+      value: Italian (Native), English (B2)
 
 - title: Education
   type: time_table
   contents:
     - title: Master's Degree in Computer Security Engineering
-      institution: University of Milan
+      institution: Università degli Studi di Milano, Milano, Italy
       year: 2020 - 2023
       description:
-        - Final grade: 103/110
-        - Thesis: Conducting requirements analysis, threat identification, and risk analysis in a medical records management system aimed at certification as an MDR (Medical Devices Regulation, EU No 2017/745)
-
+        - Final mark: 103/110
+        - Thesis: Conducting a requirements analysis, threat identification, and risk analysis in a medical records management system aimed at MDR certification.
+    
     - title: Bachelor's Degree in Security of Computer Systems and Networks
-      institution: University of Milan
+      institution: Università degli Studi di Milano, Milano, Italy
       year: 2017 - 2020
       description:
-        - Final grade: 90/110
-        - Thesis: Study of cryptanalysis techniques for RSA and practical implications for security
+        - Thesis on cryptanalysis techniques for RSA and security implications.
 
-- title: Work Experience
+    - title: High School Diploma - Information Systems and Telecommunications
+      institution: Italian Vocational School, Technological Sector
+      year: 2017
+      description:
+        - Specialization in telecommunications.
+
+- title: Experience
   type: time_table
   contents:
     - title: Cyber Security Specialist
       institution: Max Mara Fashion Group, Reggio Emilia, Italy
-      year: 11/2023 - Present
+      year: Nov 2023 - Present
       description:
-        - Protection of company assets and cyber risk management
-        - Supplier management and security compliance enforcement
-        - Cyber threat management, identification, classification, and remediation
+        - Protection of company assets and cyber risk management.
+        - Management of suppliers for security compliance.
+        - Cyber threat identification, classification, and remediation.
 
-    - title: Associate
+    - title: OSINT Specialist (Associated)
       institution: Osint Italia, Florence, Italy
-      year: 01/2021 - Present
+      year: Jan 2021 - Present
       description:
-        - Information gathering and analysis via OSINT
-        - Participation in international competitions assisting law enforcement in open-source searches for individuals
+        - Information retrieval and analysis using OSINT techniques.
+        - Participation in international OSINT competitions assisting law enforcement.
 
     - title: ICT Security Technician
-      institution: Azienda Ospedaliero-Universitaria Careggi, Florence, Italy
-      year: 07/2021 - 02/2022
+      institution: Azienda Ospedaliero-Universitaria Careggi, Firenze, Italy
+      year: Jul 2021 - Feb 2022
       description:
-        - Resolving healthcare information security issues
-        - ISO 27001 and MDR (Medical Device Regulation) compliance
+        - Addressing and solving healthcare data security issues.
+        - Compliance with ISO 27001, MDR regulations.
 
-    - title: Web Developer
-      institution: REI - Reindustria Innovazione, Cremona, Italy
-      year: 03/2018 - 11/2018
+    - title: Website Developer
+      institution: REI - Reindustria Innovazione, Italy
+      year: Mar 2018 - Nov 2018
       description:
-        - Website development integrating automated map and Excel data
+        - Development of automated website for geographical data integration.
 
-    - title: Web Developer (SEO Optimization)
-      institution: SeSa S.p.A. (VAR GROUP), Florence, Italy
-      year: 06/2016 - 07/2016
+    - title: SEO Web Developer
+      institution: SeSa S.p.A. (VAR GROUP), Firenze, Italy
+      year: Jun 2016 - Jul 2016
       description:
-        - Development of SEO-optimized websites
+        - Website development with SEO optimization.
 
     - title: Designer and Developer
-      institution: El.En., Florence, Italy
-      year: 09/2015 - 06/2016
+      institution: El.En., Firenze, Italy
+      year: Sep 2015 - Jun 2016
       description:
-        - Design and creation of an autonomous robotic crab
-        - Team coordination and leadership
+        - Design and development of autonomous robotic crab.
+        - Team coordination and leadership.
+
+- title: Certifications
+  type: list
+  contents:
+    - SEC530 Zero Trust - SANS Institute (2024)
+    - Microsoft DevOps and various Windows Server Certifications (2019)
+    - ECDL, Didasca (2016)
+
+- title: Publications
+  type: list
+  contents:
+    - CVE-2019-19234 - Discovered vulnerability (with Gabriele Orini)
+    - CVE-2019-19232 - Discovered vulnerability (with Gabriele Orini)
 
 - title: Technical Skills
   type: list
   contents:
-    - Programming Languages: C, C#, Java, JavaScript (NodeJS), Prolog, Lisp, Lua
-    - Certifications: ECDL, SEC401 (SANS), SEC504 (SANS), SEC530 (SANS)
-    - Knowledge: ISO 27001, MDR (Medical Device Regulation), OSINT, DevOps
+    - OSINT Techniques
+    - Programming languages: C#, Java, JavaScript (NodeJS), Lua, Lisp, Prolog, C, C++, Java, Node.js, Prolog, Lisp
+    - Operating Systems: Windows, Linux
+    - Security Tools and Frameworks: ISO 27001, Zero Trust Model, MDR compliance, Active Directory, PowerShell, Azure Security
 
-- title: Publications
+- title: Other Interests
   type: list
   contents:
-    - CVE-2019-19234 (2019)
-    - CVE-2019-19232 (2019)
-
-- title: Driving Licence
-  type: list
-  contents:
-    - Category B
-
-- title: Languages
-  type: list
-  contents:
-    - Italian (Native)
-    - English (B2)
-
-- title: Digital Competencies
-  type: list
-  contents:
-    - Operating Systems: Windows Server, Linux
-    - Cybersecurity, Network Management, Web Development, OSINT
-
-- title: Publications
-  type: list
-  contents:
-    - CVE-2019-19234 (2019)
-    - CVE-2019-19232 (2019)
+    - Hobbies: Open-source intelligence competitions, programming, robotics
+    - Driving License: Category B (Car available)
